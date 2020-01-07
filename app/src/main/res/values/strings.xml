@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">intern</string>
+    <string name="save">Save</string>
+    <string name="start_calling">START CALLING</string>
+    <string name="enter_values_here">ENTER VALUES HERE</string>
+    <string name="todo">TODO</string>
+    <string name="memory">MEMORY</string>
+    <string name="back">BACK</string>
+    <string name="choose_audio">Choose Audio</string>
+    <string name="load_into_memeory">Load Into Memeory</string>
+</resources>
